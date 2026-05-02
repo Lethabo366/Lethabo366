@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Lethabo Kaphioa</h1>
-<h3 align="center">I am a Passionate Full-Stack Developer</h3>
 
 <h1 align="center">Hi 👋, I'm Lethabo Kaphioa</h1>
 
