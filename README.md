@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-* 🎓 Full-Stack Software Engineering Graduate (HyperionDev)
+* 🎓 Full-Stack Web Development and Software Engineering Graduate (HyperionDev)
 * 💻 I build **end-to-end applications** with a strong focus on **clean code, structure, and scalability**
 * 🧩 Passionate about understanding how systems work beyond just making them function
 * 📈 Constantly improving through building, breaking, and refining real-world projects
