@@ -61,8 +61,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lethabo-kaphioa-7b5017318/"> My Linked </a>
-  <a href="https://www.hyperiondev.com/portfolio/LK23120012510/">My HyperionDev Portfolio</a>
+<a href="https://linkedin.com/in/lethabo-kaphioa-7b5017318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lethabo-kaphioa-7b5017318" height="30" width="40" /></a>
 </p>
 
 ---
