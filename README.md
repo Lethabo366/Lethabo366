@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Lethabo Kaphioa</h1>
-/header.png
+<img src="./header.png" alt="Header" width="600"/>
+
 
 <h3 align="center">🚀 Full-Stack Engineer </h3>
 
