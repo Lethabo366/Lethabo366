@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Lethabo Kaphioa</h1>
 <img src="./header.png" alt="Header" width="600"/>
 
 
