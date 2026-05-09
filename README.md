@@ -27,7 +27,6 @@
 ### 🧰 Tech Stack
 
 <h3 align="left">Languages and Tools:</h3>
-## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,docker,express,html,java,js,laravel,mocha,mongodb,mysql,nodejs,php,react,sass,tailwind" alt="My Skills"/>
