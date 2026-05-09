@@ -27,7 +27,10 @@
 ### 🧰 Tech Stack
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills"/>
+</p>
+
 above are my new icons
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
