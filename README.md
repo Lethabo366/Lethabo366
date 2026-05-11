@@ -1,8 +1,8 @@
-
+c
 <img src="./header.png" alt="Header" width="600"/>
 
 
-<h3 align="center">🚀 Full-Stack Engineer </h3>
+<h3 align="center">🚀 Full-Stack Developer | Software Engineer </h3>
 
 ---
 
