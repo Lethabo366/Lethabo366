@@ -67,8 +67,13 @@ Mocha
 
 ### 📂 Featured Projects
 
-* 🔹 Credential Manager – Full-stack app with authentication and REST API design
+* 🔹<a href="https://github.com/Lethabo366/Poised-Project-Management-System">Poised Project Management System</a> - A Java-console-based project management system developed for a structural engineering company called Poised. The application helps manage construction projects, track project details, monitor deadlines, and maintain customer, contractor, and architect information.
 
+* 🔹 <a href="https://github.com/Lethabo366/Food-Quick-Delivery">Food Quick Delivery</a> -A console-based Java application that simulates a food delivery system for a company called Food Quick. The program captures customer and restaurant details, assigns the most suitable driver based on location and workload, and generates a formatted invoice.
+  
+* 🔹 <a href="https://github.com/Lethabo366/Hangman-Game">Hangman Game</a> - A Hangman game built with React as part of a full-stack web development capstone project.
+
+* 🔹 <a href="https://github.com/Lethabo366/Github-Search-App">GitHub Search App</a> -A full-stack web application that integrates with the GitHub API to provide a seamless browsing experience for users and repositories. Built with React and Express, the app allows users to search for GitHub profiles, view detailed user information, and explore repositories and their commit history.
 ---
 
 ### 🤝 Connect With Me
