@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,docker,express,html,java,js,laravel,mocha,mongodb,mysql,nodejs,php,react,sass,tailwind&theme=light&perline=7" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=css,docker,express,html,java,js,laravel,mocha,mongodb,mysql,nodejs,php,react,sass,tailwind&theme=light&perline=6" alt="My Skills"/>
 </p>
 
 #### 💻 Languages
