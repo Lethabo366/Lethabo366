@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=css,docker,express,html,java,js,laravel,mocha,mongodb,mysql,nodejs,php,react,sass,tailwind" alt="My Skills"/>
 </p>
 
