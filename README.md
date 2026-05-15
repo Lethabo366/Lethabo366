@@ -28,8 +28,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p >
-  <img src="https://skillicons.dev/icons?i=css,docker,express,html,java,js,laravel,mocha,mongodb,mysql,nodejs,php,react,sass,tailwind&theme=light" alt="My Skills"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,docker,express,html,java,js,laravel,mocha,mongodb,mysql,nodejs,php,react,sass,tailwind&theme=light&perline=7" alt="My Skills"/>
 </p>
 
 #### 💻 Languages
